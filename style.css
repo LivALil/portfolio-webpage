@@ -1,0 +1,40 @@
+body {
+    background-color: black;
+}
+
+h2 {
+    color:whitesmoke;
+}
+header,h1 {
+    background: blue;
+    color: whitesmoke;
+    border-radius: 25px;
+ }
+ h5 {
+     color:whitesmoke;
+ }
+header,h3,h4 {   
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color:whitesmoke;
+}
+
+p {
+    font-family: 'Courier New', Courier, monospace;
+    color: whitesmoke;
+    text-align:center;
+}
+
+footer {
+    text-align: center;
+}
+
+ul {
+    font-family: 'Courier New', Courier, monospace; 
+    color:whitesmoke;
+}
+
+ol {
+    font-family: 'Courier New', Courier, monospace;
+    color: whitesmoke
+}
