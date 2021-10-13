@@ -4,6 +4,7 @@ body {
 
 h2 {
     color:whitesmoke;
+    text-align: center;
 }
 header,h1 {
     background: blue;
@@ -37,4 +38,10 @@ ul {
 ol {
     font-family: 'Courier New', Courier, monospace;
     color: whitesmoke
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    height: 200px;
 }
